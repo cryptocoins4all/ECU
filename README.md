@@ -1,0 +1,4 @@
+ECU
+===
+
+Electronic Currency Unit
